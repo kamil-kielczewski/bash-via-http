@@ -1,0 +1,11 @@
+EVENT_NAME:
+my-project
+
+EVENT_TIMESTAMP:
+1495127455
+
+EVENT_PARAMETERS: 
+name=my-project&key=xxxxxxxxxxxxxxxxxxxxxx
+
+EVENT_BODY: 
+{"push":{"changes":[{"new":{"name":"master","type":"branch"}}]}}
